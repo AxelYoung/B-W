@@ -1,0 +1,7 @@
+-Combat system
+	- Have various block types effect enemies
+	- Dashing
+	- Different Weapons
+-Scripted scenes / dialogue
+-Multiple lines of dialogue
+-World map
